@@ -16,7 +16,6 @@ class Resume extends Component {render () {
         <h2 style={{fontSize: '60px', fontFamily: 'Raleway',  paddingTop: '2em'}}> Technical Skills: </h2>
         <h4 style={{fontFamily: 'Raleway', fontSize: '30px'}}> Beginner level: </h4>
         <p style={{paddingTop: '2em', fontFamily: 'Raleway', fontSize: '20px'}}> ● <b> Programming languages: </b> HTML, CSS, JavaScript, Java,  C++ </p>
-        <p style={{fontFamily: 'Raleway', fontSize: '20px'}}> ● <b> Frameworks:</b>  React, React Native</p>
        </Cell>
         </Grid>  </div> 
        )
